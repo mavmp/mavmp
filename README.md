@@ -1,5 +1,6 @@
- ### ㋡ disorder ㋡ 
+ ###<p align=center> ㋡ disorder ㋡ 
  <img src= "https://i.imgur.com/T5sSFsI.jpg?1" heigth="300" width="400">
+ </center>
 
 <!--
 **mavmp/mavmp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
