@@ -1,6 +1,7 @@
  ### <p align=center> ㋡ disorder ㋡ 
  <br>
- <img src= "https://i.imgur.com/T5sSFsI.jpg?1" heigth="300" width="400">
+ <p align=center><img src= "https://i.imgur.com/T5sSFsI.jpg?1" heigth="300" width="400">
+ </center>
  </center>
 
 <!--
